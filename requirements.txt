@@ -1,0 +1,8 @@
+1. First Download Ollama from ollama official website and install it
+2. now open cmd type ollama , next type ollama run llama3.2
+3. and always check your http://127.0.0.1:11434/ is free or not 
+4. now download those module: !pip install crewai crewai_tools langchain langchain_community langchain_ollama streamlit duckduckgo-search
+5. now you can download your all travel report md files 
+
+
+Congratulations 🎉 For Your Happy Journey 
